@@ -1,6 +1,6 @@
 # project-Register
 
-This is a example of a simple register page, build using HTML5, CSS and vanilla Javascript.
+This is a example of a simple Register page, build using HTML5, CSS and vanilla Javascript.
 
 # Screenshots
 
